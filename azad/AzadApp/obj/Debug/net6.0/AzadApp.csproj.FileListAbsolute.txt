@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\AzadApp\bin\Debug\net6.0\AzadApp.exe
+C:\Users\II novbe\Desktop\AzadApp\bin\Debug\net6.0\AzadApp.deps.json
+C:\Users\II novbe\Desktop\AzadApp\bin\Debug\net6.0\AzadApp.runtimeconfig.json
+C:\Users\II novbe\Desktop\AzadApp\bin\Debug\net6.0\AzadApp.dll
+C:\Users\II novbe\Desktop\AzadApp\bin\Debug\net6.0\AzadApp.pdb
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.dll
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\refint\AzadApp.dll
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.pdb
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\AzadApp.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\AzadApp\obj\Debug\net6.0\ref\AzadApp.dll
