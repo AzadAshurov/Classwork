@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\AzadDay2\bin\Debug\net6.0\AzadDay2.exe
+C:\Users\II novbe\Desktop\AzadDay2\bin\Debug\net6.0\AzadDay2.deps.json
+C:\Users\II novbe\Desktop\AzadDay2\bin\Debug\net6.0\AzadDay2.runtimeconfig.json
+C:\Users\II novbe\Desktop\AzadDay2\bin\Debug\net6.0\AzadDay2.dll
+C:\Users\II novbe\Desktop\AzadDay2\bin\Debug\net6.0\AzadDay2.pdb
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.dll
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\refint\AzadDay2.dll
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.pdb
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\AzadDay2.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\AzadDay2\obj\Debug\net6.0\ref\AzadDay2.dll
