@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Azad3\bin\Debug\net6.0\Azad3.exe
+C:\Users\II novbe\Desktop\Azad3\bin\Debug\net6.0\Azad3.deps.json
+C:\Users\II novbe\Desktop\Azad3\bin\Debug\net6.0\Azad3.runtimeconfig.json
+C:\Users\II novbe\Desktop\Azad3\bin\Debug\net6.0\Azad3.dll
+C:\Users\II novbe\Desktop\Azad3\bin\Debug\net6.0\Azad3.pdb
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.dll
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\refint\Azad3.dll
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.pdb
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\Azad3.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\Azad3\obj\Debug\net6.0\ref\Azad3.dll
