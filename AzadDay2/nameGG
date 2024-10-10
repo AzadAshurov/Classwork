@@ -1,0 +1,26 @@
+ while (true)
+            {
+                int count = 0;
+                int[] inputNums = {};
+                Console.WriteLine("Enter least number border");
+                int minNum = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter greatest number border");
+                int maxNum = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter all numbers one by one border");
+                for (int i = minNum; i < maxNum; i++)
+                {
+                    count++;
+                   Array.Resize(ref inputNums,count );
+                    inputNums[count-1] = Convert.ToInt32(Console.ReadLine());
+                }
+                for(int i = 0; i < inputNums.Length; i++)
+                {
+                    if(inputNums[i] > maxNum || inputNums[i] < minNum)
+                    {
+                        Console.WriteLine("OUT OF BORDER!!!TRY AGAIN!!!");
+                        break;
+                    }
+
+                }
+
+            }
