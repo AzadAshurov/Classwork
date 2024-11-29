@@ -1,0 +1,38 @@
+public class ProductTag
+{
+public int Id {get;set;}
+public int ProductId {get;set;}
+public int TagId {get;set;}
+public int ProductId { get;set;}
+public Product Product { get; set;}
+public Tag Tag {get;set;}
+}
+
+public class Tag:BaseEntity
+{
+public string Name {get;set;}
+public List<ProductTag> ProductTags {get; set;}
+}
+
+ADD TO PRODUCT CLASS THIS [
+public DbSet<ProductTag> ProductTags {get;set;}
+}
+
+public DbSet<Tag> Tags {get;set;}
+public DbSet<ProductTag> ProductTag {get;set;}
+
+
+add-migration TagsCreated
+update-database
+
+Product product = new(){
+Name = productVM.Name,
+SKU = productVM.SKU,
+CategoryId = productVM.CategoryId.Value,
+Description = productVM.Description,
+Price= productVM.Price.Value,
+CreatedAt= DateTime.Now,
+IsDeleted = false,
+ProductTags = productVM>TagIds.Select(tId => new ProductTag {TagId = tId}).ToList()
+}
+<h1> Hello word </h1>
